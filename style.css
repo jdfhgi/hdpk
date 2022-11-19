@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+button {
+  width: 70px
+}
+
+h1 {
+  color: #696969;
+}
+
+p {
+  font-size: 25pt;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+
+td, th {
+  border: 1px solid green;
+
+}
