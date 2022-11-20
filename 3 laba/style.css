@@ -1,0 +1,49 @@
+*{
+	background: #1C242D;
+	color: snow;
+}
+
+div p {
+font-weight: 600;
+}
+
+ul li>span {
+font-weight:600;
+}
+
+ol li + li {
+	list-style: none;
+}
+
+h3~h4 {
+	color: red;
+}
+span{
+	color: red;
+}
+header{
+	width: 100px;
+	height: 100px;
+	float: left;
+
+}
+.nav1, .nav2,.nav3, .nav4{
+	width: 100px;
+	height: 100px;
+	float: left;
+	text-align: center;
+}
+
+.nav1, .nav2{
+	background: #8A2BE2;
+}
+
+.nav3, .nav4{
+	color: #00BFFF;
+	background: #FFD700;
+	border: 4px solid blue;
+}
+
+.nav2 {
+	border-radius: 50px;
+}
